@@ -10,6 +10,22 @@
 
 ## MAKE
 
-这里（由于各种各样的问题并没有公开图片等资源），仅仅公布源码以供大家学习交流。
+由于成品涉及第三方素材，您无法直接编译文档。
+
+依赖的宏包：
+```
+TBD
+```
+
+依赖的第三方素材：
+封面（梅莉.jpg）
+
+编译流程
+```
+git clone https://github.com/InnocentFIVE/Manual-for-the-first-year-student-who-study-MATH.PHYSICS.git ran-college-manual
+cd ran-college-manual
+cp <PATH TO 梅莉.jpg> ./image/梅莉.jpg
+TBD
+```
 
 ![LOGOs](https://user-images.githubusercontent.com/104732548/203782620-3a07c9c8-2b67-40d5-83b3-ba72dda31182.png)
